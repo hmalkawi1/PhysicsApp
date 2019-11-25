@@ -1,4 +1,11 @@
 # PhysicsApp
-Start of teacher and student communication application.
 
-The goal is for these questions to guide physics student through their homework. Will expand to have function of chat and accounts 
+#### Description
+A communication application that lets physics students ask questions to their teachers.
+The goal for these questions is to guide physics student through their homework. 
+
+#### Future Features
+Future features to be implemented are:
+  1. Account system for student and teacher user types.
+  2. Chat system.
+
